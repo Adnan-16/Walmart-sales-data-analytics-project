@@ -170,4 +170,3 @@ This project showcases a complete data analytics pipeline — from raw CSV data 
 
 ---
 
-If you’d like, I can also tailor this README to a specific dataset (sales, HR, finance, e-commerce, etc.) to make it stronger for your portfolio.
