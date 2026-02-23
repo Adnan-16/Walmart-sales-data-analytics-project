@@ -131,7 +131,7 @@ The project demonstrates how structured querying and visualization can turn raw 
 1. Clone this repository:
 
    ```bash
-   git clone <https://github.com/Adnan-16/Walmart-sales-data-analytics-project>
+   git clone <https://github.com/Adnan-16/Walmart-sales-data-analytics-project/tree/main>
    ```
 
 2. Open MySQL Workbench.
