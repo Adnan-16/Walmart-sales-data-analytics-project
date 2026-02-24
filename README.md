@@ -109,62 +109,17 @@ The dashboard is designed to be user-friendly, interactive, and business-focused
 
 Key insights derived from the analysis:
 
-* Identified top-performing categories/products.
+* Identified top-performing categories.
 * Analyzed trends over time.
+* Analyzed city-wise performance
 * Detected patterns in customer or regional performance.
-* Highlighted areas for potential improvement.
 
 The project demonstrates how structured querying and visualization can turn raw data into actionable business intelligence.
 
----
-
-## 6. How to Run This Project
-
-### Prerequisites
-
-* Install **MySQL Server**
-* Install **MySQL Workbench**
-* Install **Power BI Desktop**
-
-### Setup Instructions
-
-1. Clone this repository:
-
-   ```bash
-   git clone <https://github.com/Adnan-16/Walmart-sales-data-analytics-project/tree/main>
-   ```
-
-2. Open MySQL Workbench.
-
-3. Create a new database.
-
-4. Import the CSV file into a table.
-
-5. Run the SQL queries provided in the `/sql` folder.
-
-6. Open the Power BI file (`.pbix`).
-
-7. Update the database connection if needed.
-
-8. Refresh the data to load results.
 
 ---
 
-## 7. Project Structure
-
-```
-├── data/
-│   └── dataset.csv
-├── sql/
-│   └── queries.sql
-├── dashboard/
-│   └── dashboard.pbix
-└── README.md
-```
-
----
-
-## 8. Conclusion
+## 6. Conclusion
 
 This project showcases a complete data analytics pipeline — from raw CSV data to SQL-based analysis and interactive Power BI dashboards. It highlights practical skills in data handling, querying, and business intelligence reporting.
 
